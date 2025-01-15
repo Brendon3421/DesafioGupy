@@ -140,3 +140,26 @@ npm run dev
 Agora você está pronto para rodar o projeto! 😊
 
 Se encontrar algum problema, verifique as configurações de banco e as dependências.
+
+Como Importar um Arquivo no Postman
+Se você recebeu um arquivo de exportação do Postman (como uma coleção ou ambiente), siga os passos abaixo para importá-lo para o seu Postman.
+
+Passos para Importar um Arquivo no Postman
+Abrir o Postman
+Primeiro, abra o Postman no seu computador.
+
+Ir para a Tela de Importação
+No canto superior esquerdo, clique no botão Import.
+
+
+Escolher o Arquivo para Importar
+Após clicar no botão "Import", uma janela pop-up será exibida.
+Clique em Upload Files ou Escolher arquivos (dependendo do idioma), e selecione o arquivo exportado que você deseja importar (pode ser um arquivo .json, .postman_collection, ou .postman_environment).
+
+Carregar o Arquivo
+Selecione o arquivo de exportação que você recebeu e clique em Open (Abrir).
+
+O Postman irá carregar automaticamente o conteúdo do arquivo e exibir uma visualização do que será importado.
+
+Confirmar a Importação
+Depois que a visualização do arquivo for carregada, clique em Importar para adicionar a coleção ou o ambiente à sua interface do Postman.
