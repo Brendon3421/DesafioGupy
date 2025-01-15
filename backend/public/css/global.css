@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --font-family: 'Poppins', sans-serif;
+    --text: 400 1rem/1.5 var(--font-family);
+    --text-sm: 400 0.875rem/1.5 var(--font-family);
+
+    --text-color: #292524;
+    --text-secondary: #57534e;
+    --text-textiary: #E43A12;
+    
+    --semantic-error:#DC2626;
+
+    --surface-primary: #ffff;
+    --surface-sencodary: #FEE7D6;
+
+    --stronke-default: #D6D3D1;
+    --stronke-hightlight: #F3541c;
+}
+
+body {
+    overflow: hidden;
+
+    font: var(--text);
+    color: var(--text-color);
+}
+
+h1,
+h2 {
+    color: var(--text-color);
+}
+
+img {
+    max-width: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-2 {
+    flex: 2;
+}

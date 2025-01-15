@@ -1,0 +1,150 @@
+[33mcommit 92f4a041d2fc4575044467be7b467d3f1d235e3e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: brendon3421 <brendonrroger@gmail.com>
+Date:   Tue Aug 27 06:05:23 2024 -0300
+
+    Funcionando crud da empresas
+
+[33mcommit 28d93609997c40d3508ea038683cc9a3be590b1e[m
+Author: brendon3421 <brendonrroger@gmail.com>
+Date:   Wed Aug 21 22:33:20 2024 -0300
+
+    Funcionando a parte do CRUD de criar e visualizar um por vez e listar todos na EmpresaServices
+
+[33mcommit ffafa2da256a12e29a42db71e96d5358a3108ce8[m
+Author: brendon3421 <brendonrroger@gmail.com>
+Date:   Wed Aug 21 07:18:56 2024 -0300
+
+    Ajustado crud do contantoEmpresas em Api ,e terminando os ajuste do crud da empresa
+
+[33mcommit 3fb27a6949a7625aaf3f55e414259815aee0b034[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Tue Aug 20 14:18:52 2024 -0300
+
+    Comecando o crud do contatoEmpresa e ja configurando
+
+[33mcommit 7f42feb115f691e2ce4fce551943db53ed0f42b3[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Sun Aug 18 11:06:04 2024 -0300
+
+    Ajustado o crud do usuario com o contatos em api rest
+
+[33mcommit 4209b8b792165a99762560d9add0e3e9f9b704ed[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Mon Aug 12 06:27:47 2024 -0300
+
+    Ajustado bug de criacao nos usuario e fazer o crud de empresas e contatos
+
+[33mcommit a3f3467a98058cae3f151aea32ea572c4c4e0dfc[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Thu Aug 8 13:03:38 2024 -0300
+
+    Foi ajustados As FK para  nao dar mais intereferencia quando rodar a migrate , mas falta alterar em *todos* os models as colunas correspodentes
+
+[33mcommit 95b8f4b726e6e5b73c044ac98d19e1d93732bf27[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Tue Aug 6 22:47:14 2024 -0300
+
+    Adicionando as tabela de contantos e empresas e sub empresas para os usuarios poderem ter filial , e comecando a acrescentar os DTO configurados
+
+[33mcommit 967d2e7425dc99e92f22532de19190b1c4d765d4[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Sun Aug 4 10:04:18 2024 -0300
+
+    Ajustado o crud em api Rest da habilidade da regra
+
+[33mcommit c72e1424e535edbc0bd800d843bfbaeef237b241[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Fri Aug 2 16:45:32 2024 -0300
+
+    Ajustado crud em Api rest nas regras de usuarios  e adicionando documentao das api
+
+[33mcommit edc4bd02e751cc72e011b61611640fce2a726dcc[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Fri Aug 2 10:29:56 2024 -0300
+
+    Feito crud em Api Rest Full das Regras de Usuarios e Habilidades
+
+[33mcommit f94f89d7f4428f9967ed8e25a2d9b9353c8937bb[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Tue Jul 30 07:04:31 2024 -0300
+
+    Ajustado as Habilidades/Api que nao estava funcionando e comecando a fazer as api de Roles
+
+[33mcommit 43003bdecbe2886dde890890f7be1fae7aaed7c9[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Mon Jul 29 06:53:19 2024 -0300
+
+    Criado o Service e Model E Request e controller do Abilities
+
+[33mcommit dc6726c6d3a9e0b49161552b3129941458d41ce3[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Sun Jul 28 16:20:37 2024 -0300
+
+    ACL feito na parte do banco e model mas falta adicionar os Services/DTOS/Controllers
+
+[33mcommit 0856b560e72061fc4a81a9e02edf12411d8e2bd4[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Sat Jul 27 23:27:43 2024 -0300
+
+    Adicionando DTO nos Services
+
+[33mcommit 68c9b8de57711d2a7f05c2ce5f7ac0855f331007[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Thu Jul 25 13:02:11 2024 -0300
+
+    Adicionando o GeneroServiceProvider
+
+[33mcommit f384590ef99b337f7113710d936beb4f1a2332d6[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Thu Jul 25 12:57:33 2024 -0300
+
+    Foi adicionado POO nos controller e criado os services do Endereco , Usuarios, Genero
+
+[33mcommit 2aa8f4b063c83cb69abc90f047d0e559e9691bb1[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Wed Jul 24 07:09:19 2024 -0300
+
+    Crud feito na parte de situacao e vinculado a tabela user e endereco
+
+[33mcommit ca0da81ac3dbef3ae7a907f4faa5c069c88c5d61[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Tue Jul 23 07:06:56 2024 -0300
+
+    Subindo alteracao nos controller Genero-home-User e na parte de registro etapas
+
+[33mcommit 2a904fd41ae4ccb11e30afd4ec837347a1d04a74[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Mon Jul 22 00:17:41 2024 -0300
+
+    Foi adicionado o CRUD em api  do endereco e genero
+
+[33mcommit 0cfd7f665c6d30a93940197409d92083ed74396c[m
+Merge: c3966ed a6bf6d1
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Sat Jun 29 20:23:38 2024 -0300
+
+    Podendo inserir e logar com a api-rest
+
+[33mcommit c3966ed85c56284cc2c73c76f6428e8df22b0308[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Sat Jun 29 20:11:41 2024 -0300
+
+    Adicionando vie e navegacao da web
+
+[33mcommit a6bf6d1cca8481ca2b278f95a65b8c370000fc08[m
+Author: Br3ndon.z <130409961+Brendon3421@users.noreply.github.com>
+Date:   Fri Jun 28 23:57:46 2024 -0300
+
+    Update README.md
+
+[33mcommit d6d111da5f8105eb648e5776c2f4a367a1a848b1[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Fri Jun 28 23:55:36 2024 -0300
+
+    Laravel
+
+[33mcommit 8648fc56ae4b0b03469a9a39beaaed65395d716d[m
+Author: Brendon3421 <brendonrroger@gmail.com>
+Date:   Fri Jun 28 23:54:40 2024 -0300
+
+    first commit
