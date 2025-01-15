@@ -18,7 +18,6 @@ git clone https://github.com/Brendon3421/DesafioGupy.git
 Navegue para o diretório `backend` do projeto:
 
 ```bash
-cd .\DesafioGupy\
 cd .\backend\
 ```
 
